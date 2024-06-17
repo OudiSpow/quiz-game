@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/main.js" defer></script>
+</head>
+
+<body>
+    <!--Start Welcome Page-->
+    <div id="welcome-page" class="page">
+        <div class="welcome-container">
+            <div class="top-text">
+                <h1>Welkom bij de Quiz!</h1>
+                <p>Ons quizspel bestaat uit drie thema's (Steden, Voetbal, Smartphones).<br> Je kiest het onderwerp dat je wilt spelen, dus je hebt tien vragen met vier mogelijke antwoorden (één is correct) en je hebt 15 seconden om het juiste antwoord te kiezen.<br> Aan het einde ontvang je je scoreresultaat.</p>
+                <h2>Veel Plezier!</h2>
+            </div>
+            <div class="input-container">
+                <h3>Voer je naam in om te beginnen:</h3>
+                <input type="text" id="username" placeholder="Naam">
+                <button onclick="startQuiz()">Start</button>
+            </div>
+        </div>
+    </div>
+    <!--End Welcome Page-->
+
+    <!--Start Theme Page-->
+    <div id="theme-page" class="page">
+        <h1 id="greeting"></h1>
+        <h1>Welke quiz wil je spelen?</h1>
+        <button onclick="selectTheme('thema1')" class="theme-button steden">Steden<br><br>Thema 1</button>
+        <button onclick="selectTheme('thema2')" class="theme-button voetbal">Voetbal<br><br>Thema 2</button>
+        <button onclick="selectTheme('thema3')" class="theme-button smartphones">Smartphones<br><br>Thema 3</button>
+    </div>
+    <!--End Theme Page-->
+
+    <!--Start Quiz Page-->
+    <div id="quiz-page" class="page">
+        <h1 id="team-name"></h1>
+        <div id="timer">15</div>
+        <div id="question-container">
+            <img id="question-image" src="" alt="Question Image">
+            <p id="question-text"></p>
+            <div id="answer-buttons" class="btn-container"></div>
+        </div>
+    </div>
+    <!--End Quiz Page-->
+
+    <!--Start Score Page-->
+    <div id="score-page" class="page">
+        <h1>Je score</h1>
+        <div id="score-details"></div>
+        <button onclick="restartQuiz()">Opnieuw</button>
+    </div>
+    <!--End Score Page-->
+</body>
+
+</html>

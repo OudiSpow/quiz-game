@@ -1,0 +1,319 @@
+[
+    {
+        "theme": "thema1",
+        "questions": [
+            {
+                "question": "Wat is de hoofdstad van Nederland?",
+                "image": "/img/thema1-vraag1.jpg",
+                "answers": [
+                    {"text": "Den Haag", "correct": false},
+                    {"text": "Amsterdam", "correct": true},
+                    {"text": "Berlijn", "correct": false},
+                    {"text": "Madrid", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke stad staat bekend als 'The Big Apple'?",
+                "image": "/img/thema1-vraag2.jpg",
+                "answers": [
+                    {"text": "Los Angeles", "correct": false},
+                    {"text": "Chicago", "correct": false},
+                    {"text": "New York", "correct": true},
+                    {"text": "San Francisco", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke stad is de hoofdstad van Duitsland?",
+                "image": "/img/thema1-vraag3.jpg",
+                "answers": [
+                    {"text": "Frankfurt", "correct": false},
+                    {"text": "Dortmund", "correct": false},
+                    {"text": "Berlijn", "correct": true},
+                    {"text": "München", "correct": false}
+                ]
+            },
+            {
+                "question": "In welke stad staat de Eiffeltoren?",
+                "image": "/img/thema1-vraag4.jpg",
+                "answers": [
+                    {"text": "Rome", "correct": false},
+                    {"text": "Parijs", "correct": true},
+                    {"text": "Londen", "correct": false},
+                    {"text": "Barcelona", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke stad is de hoofdstad van Syrië?",
+                "image": "/img/thema1-vraag5.jpg",
+                "answers": [
+                    {"text": "Sydney", "correct": false},
+                    {"text": "Damascus", "correct": true},
+                    {"text": "Aleppo", "correct": false},
+                    {"text": "Istanbul", "correct": false}
+                ]
+            },
+            {
+                "question": "In welke stad staat het Alhambra?",
+                "image": "/img/thema1-vraag6.jpg",
+                "answers": [
+                    {"text": "Granada", "correct": true},
+                    {"text": "Córdoba", "correct": false},
+                    {"text": "Sevilla", "correct": false},
+                    {"text": "Cádiz", "correct": false}
+                ]
+            },
+            {
+                "question": "Wat is de hoofdstad van Canada?",
+                "image": "/img/thema1-vraag7.jpg",
+                "answers": [
+                    {"text": "Toronto", "correct": false},
+                    {"text": "Vancouver", "correct": false},
+                    {"text": "Ottawa", "correct": true},
+                    {"text": "Montreal", "correct": false}
+                ]
+            },
+            {
+                "question": "In welke stad staat het Colosseum?",
+                "image": "/img/thema1-vraag8.jpg",
+                "answers": [
+                    {"text": "Roma", "correct": true},
+                    {"text": "Milaan", "correct": false},
+                    {"text": "Bologna", "correct": false},
+                    {"text": "Napels", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke stad is de grootste stad van Brazilië?",
+                "image": "/img/thema1-vraag9.jpg",
+                "answers": [
+                    {"text": "Rio de Janeiro", "correct": false},
+                    {"text": "Brasilia", "correct": false},
+                    {"text": "Salvador", "correct": false},
+                    {"text": "São Paulo", "correct": true}
+                ]
+            },
+            {
+                "question": "Welke stad staat bekend om zijn kanalen en gondels?",
+                "image": "/img/thema1-vraag10.jpg",
+                "answers": [
+                    {"text": "Amsterdam", "correct": false},
+                    {"text": "Brugge", "correct": false},
+                    {"text": "Venetië", "correct": true},
+                    {"text": "Hamburg", "correct": false}
+                ]
+            }
+        ]
+    },
+    {
+        "theme": "thema2",
+        "questions": [
+            {
+                "question": "Welke speler wordt vaak 'The GOAT' genoemd?",
+                "image": "/img/thema2-vraag1.jpg",
+                "answers": [
+                    {"text": "Lionel Messi", "correct": true},
+                    {"text": "Cristiano Ronaldo", "correct": false},
+                    {"text": "Pele", "correct": false},
+                    {"text": "Diego Maradona", "correct": false}
+    
+                ]
+            },
+            {
+                "question": "Welke club won de UEFA Champions League in 2009?",
+                "image": "/img/thema2-vraag2.jpg",
+                "answers": [
+                    {"text": "Barcelona", "correct": true},
+                    {"text": "Real Madrid", "correct": false},
+                    {"text": "Bayern München", "correct": false},
+                    {"text": "Manchester United", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke nationale ploeg won het WK in 2022?",
+                "image": "/img/thema2-vraag3.jpg",
+                "answers": [
+                    {"text": "Brazilië", "correct": false},
+                    {"text": "Nederland", "correct": false},
+                    {"text": "Frankrijk", "correct": false},
+                    {"text": "Argentinië", "correct": true}
+                ]
+            },
+            {
+                "question": "Wie is het vaakst kampioen geworden Eredivisie?",
+                "image": "/img/thema2-vraag4.jpeg",
+                "answers": [
+                    {"text": "PSV", "correct": false},
+                    {"text": "Feyenoord", "correct": false},
+                    {"text": "Ajax", "correct": true},
+                    {"text": "FC Utreht", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke nationale ploeg won het WK in 2010?",
+                "image": "/img/thema2-vraag5.jpg",
+                "answers": [
+                    {"text": "Nederland", "correct": false},
+                    {"text": "Duitsland", "correct": false},
+                    {"text": "Spanje", "correct": true},
+                    {"text": "Brazilië", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke club speelt zijn thuiswedstrijden in Camp Nou?",
+                "image": "/img/thema2-vraag6.jpg",
+                "answers": [
+                    {"text": "Real Madrid", "correct": false},
+                    {"text": "Atlético Madrid", "correct": false},
+                    {"text": "Barcelona", "correct": true},
+                    {"text": "Valencia", "correct": false}
+                ]
+            },
+            {
+                "question": "Wie heeft de meeste Ballon d'Or-titels gewonnen?",
+                "image": "/img/thema2-vraag7.jpg",
+                "answers": [
+                    {"text": "Cristiano Ronaldo", "correct": false},
+                    {"text": "Lionel Messi", "correct": true},
+                    {"text": "Johan Cruyff", "correct": false},
+                    {"text": "Michel Platini", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke ploeg won het EK in 1988?",
+                "image": "/img/thema2-vraag8.jpg",
+                "answers": [
+                    {"text": "Frankrijk", "correct": false},
+                    {"text": "Nederland", "correct": true},
+                    {"text": "Duitsland", "correct": false},
+                    {"text": "Spanje", "correct": false}
+                ]
+            },
+            {
+                "question": "Wat is de bijnaam van Lionel Messi?",
+                "image": "/img/thema2-vraag9.jpg",
+                "answers": [
+                    {"text": "La Mirada", "correct": false},
+                    {"text": "El Nino", "correct": false},
+                    {"text": "El Torro", "correct": false},
+                    {"text": "La Pulga", "correct": true}
+                ]
+            },
+            {
+                "question": "Wat was Johan Cruijff rugnummer?",
+                "image": "/img/thema2-vraag10.jpg",
+                "answers": [
+                    {"text": "10", "correct": false},
+                    {"text": "9", "correct": false},
+                    {"text": "14", "correct": true},
+                    {"text": "11", "correct": false}
+                ]
+            }
+        ]
+    },
+
+    {
+        "theme": "thema3",
+        "questions": [
+            {
+                "question": "Welk bedrijf produceert de iPhone?",
+                "image": "/img/thema3-vraag1.jpg",
+                "answers": [
+                    {"text": "Samsung", "correct": false},
+                    {"text": "Apple", "correct": true},
+                    {"text": "Google", "correct": false},
+                    {"text": "Huawei", "correct": false}
+                ]
+            },
+            {
+                "question": "Wat is het besturingssysteem van de meeste smartphones die niet van Apple zijn?",
+                "image": "/img/thema3-vraag2.png",
+                "answers": [
+                    {"text": "Windows Phone", "correct": false},
+                    {"text": "iOS", "correct": false},
+                    {"text": "Android", "correct": true},
+                    {"text": "BlackBerry OS", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke smartphone staat bekend om zijn camerakwaliteit en wordt gemaakt door Google?",
+                "image": "/img/thema3-vraag3.jpg",
+                "answers": [
+                    {"text": "Galaxy", "correct": false},
+                    {"text": "iPhone", "correct": false},
+                    {"text": "Pixel", "correct": true},
+                    {"text": "OnePlus", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke fabrikant introduceerde de eerste commercieel succesvolle smartphone?",
+                "image": "/img/thema3-vraag4.jpg",
+                "answers": [
+                    {"text": "Apple", "correct": false},
+                    {"text": "BlackBerry", "correct": false},
+                    {"text": "IBM", "correct": true},
+                    {"text": "Nokia", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke smartphone serie staat bekend om de S Pen stylus?",
+                "image": "/img/thema3-vraag5.png",
+                "answers": [
+                    {"text": "iPhone", "correct": false},
+                    {"text": "Pixel", "correct": false},
+                    {"text": "Galaxy Note", "correct": true},
+                    {"text": "Xperia", "correct": false}
+                ]
+            },
+            {
+                "question": "Wat is de naam van de virtuele assistent op iPhones?",
+                "image": "/img/thema3-vraag6.png",
+                "answers": [
+                    {"text": "Alexa", "correct": false},
+                    {"text": "Google Assistant", "correct": false},
+                    {"text": "Siri", "correct": true},
+                    {"text": "Cortana", "correct": false}
+                ]
+            },
+            {
+                "question": "Welke smartphonefabrikant produceert de OnePlus-serie?",
+                "image": "/img/thema3-vraag7.jpg",
+                "answers": [
+                    {"text": "Xiaomi", "correct": false},
+                    {"text": "OnePlus", "correct": true},
+                    {"text": "Oppo", "correct": false},
+                    {"text": "Vivo", "correct": false}
+                ]
+            },
+            {
+                "question": "Welk bedrijf was ooit de grootste fabrikant van mobiele telefoons, maar verloor marktaandeel na de opkomst van smartphones?",
+                "image": "/img/thema3-vraag8.jpg",
+                "answers": [
+                    {"text": "Motorola", "correct": false},
+                    {"text": "BlackBerry", "correct": false},
+                    {"text": "Nokia", "correct": true},
+                    {"text": "Sony Ericsson", "correct": false}
+                ]
+            },
+            {
+                "question": "Wat is de naam van de batterijbesparende modus op iPhones?",
+                "image": "/img/thema3-vraag9.jpg",
+                "answers": [
+                    {"text": "Power Saving Mode", "correct": false},
+                    {"text": "Low Battery Mode", "correct": false},
+                    {"text": "Battery Saver", "correct": false},
+                    {"text": "Low Power Mode", "correct": true}
+                ]
+            },
+            {
+                "question": "Wat is de naam van de slimme assistent op Samsung smartphones?",
+                "image": "img/thema3-vraag10.jpg",
+                "answers": [
+                    {"text": "Siri", "correct": false},
+                    {"text": "Alexa", "correct": false},
+                    {"text": "Google Assistant", "correct": false},
+                    {"text": "Bixby", "correct": true}
+                ]
+            }
+        ]
+    }
+]
